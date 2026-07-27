@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tehmina124/Tehmina124/main/mybanner.png" width="100%" alt="Tehmina Anwar Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Tehmina Anwar 👋 </h1>
+<h1 align="center">Hi, I'm Tehmina Anwar 👋</h1>
 
 <h3 align="center">
 AI/ML Engineer • Python Developer • Generative AI • LLMs • RAG • NLP • Computer Vision
@@ -14,7 +14,7 @@ Building intelligent AI applications using Python, Machine Learning, Large Langu
 
 <p align="center">
 
-<a href="https://tehmina-portfolio.vercel.app/">
+<a href="https://tehmina-portfolio-five.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -84,9 +84,7 @@ Responsive portfolio website showcasing my projects, skills, and achievements.
 ## 🐍 Programming
 
 <p>
-
 <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
-
 </p>
 
 ---
@@ -94,15 +92,10 @@ Responsive portfolio website showcasing my projects, skills, and achievements.
 ## 🤖 AI & Machine Learning
 
 <p>
-
 <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -110,9 +103,7 @@ Responsive portfolio website showcasing my projects, skills, and achievements.
 ## 📝 Natural Language Processing
 
 <p>
-
 <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -120,11 +111,8 @@ Responsive portfolio website showcasing my projects, skills, and achievements.
 ## 👁️ Computer Vision
 
 <p>
-
 <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/OpenCV-7C3AED?style=for-the-badge&logo=opencv&logoColor=white"/>
-
 </p>
 
 ---
@@ -132,13 +120,9 @@ Responsive portfolio website showcasing my projects, skills, and achievements.
 ## 💻 Development Tools
 
 <p>
-
 <img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/VS%20Code-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
 </p>
 
 ---
@@ -158,7 +142,7 @@ Responsive portfolio website showcasing my projects, skills, and achievements.
 
 <p>
 
-<a href="https://tehmina-portfolio.vercel.app/">
+<a href="https://tehmina-portfolio-five.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -175,7 +159,5 @@ Responsive portfolio website showcasing my projects, skills, and achievements.
 ---
 
 <p align="center">
-
 <b>✨ Building intelligent AI solutions that create real-world impact.</b>
-
 </p>
