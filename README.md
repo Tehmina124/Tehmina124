@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tehmina124/Tehmina124/main/mybanner.png" width="100%" alt="Tehmina Anwar Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Tehmina Anwar</h1>
+<h1 align="center">Hi, I'm Tehmina Anwar👋</h1>
 
 <h3 align="center">
 AI/ML Engineer • Python Developer • Generative AI • LLMs • RAG • NLP • Computer Vision
@@ -13,6 +13,7 @@ Building intelligent AI applications using Python, Machine Learning, Large Langu
 </p>
 
 <p align="center">
+
 <a href="https://tehmina-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -37,51 +38,61 @@ My interests include **Machine Learning, Generative AI, Large Language Models (L
 
 I enjoy building practical AI solutions that solve real-world problems while continuously improving my programming, software engineering, and problem-solving skills.
 
-Currently, I am gaining hands-on experience through AI projects, internships, and continuous learning to build production-ready AI applications.
+Currently, I am gaining hands-on experience through AI projects, internships, and continuous learning while working toward becoming an AI/ML Engineer.
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 AI Attendance System
-
-Face Recognition-based attendance system using Python, OpenCV, and computer vision techniques.
-
----
-
-### 🌱 Potato Disease Detection
-
-Deep Learning application for detecting potato leaf diseases using image classification.
-
----
-
-### 💬 AI Career Chatbot
-
-AI-powered chatbot that provides career guidance and personalized recommendations.
-
----
-
 ### 🏥 Hospital Management System
 
-Hospital Management System built using Python, Object-Oriented Programming (OOP), and JSON file handling.
+Python-based Hospital Management System built using Object-Oriented Programming (OOP) and JSON File Handling.
+
+🔗 Repository: https://github.com/Tehmina124/Hospital-Management-System
 
 ---
 
 ### 📝 Smart Quiz Application
 
-Interactive quiz application featuring multiple categories, scoring, and timer functionality.
+Interactive quiz application featuring multiple categories, timer, random questions, and score tracking.
+
+🔗 Repository: https://github.com/Tehmina124/Smart-Quiz-Application
+
+---
+
+### 💬 AI Career Chatbot
+
+Python-based AI chatbot that provides career guidance and answers AI-related questions.
+
+🔗 Repository: https://github.com/Tehmina124/AI-Career-Chatbot
 
 ---
 
 ### 🧮 Python Calculator
 
-Simple calculator application developed using Python.
+Simple command-line calculator developed using Python.
+
+🔗 Repository: https://github.com/Tehmina124/Python-Calculator
 
 ---
 
 ### 🌐 Personal Portfolio
 
-Responsive portfolio website showcasing my projects, technical skills, and achievements.
+Personal portfolio website showcasing my projects, technical skills, and achievements.
+
+🔗 Portfolio: https://tehmina-portfolio.vercel.app/
+
+---
+
+### 🤖 AI Attendance System *(Coming Soon)*
+
+Face Recognition-based attendance system using Python, OpenCV, and Computer Vision.
+
+---
+
+### 🌱 Potato Disease Detection *(Coming Soon)*
+
+Deep Learning application for potato leaf disease classification.
 
 ---
 
@@ -128,9 +139,27 @@ Responsive portfolio website showcasing my projects, technical skills, and achie
 
 ---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tehmina124&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehmina124&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tehmina124&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://tehmina-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -149,7 +178,5 @@ Responsive portfolio website showcasing my projects, technical skills, and achie
 ---
 
 <p align="center">
-
-### ✨ Building intelligent AI solutions that create real-world impact.
-
+<b>✨ Building intelligent AI applications with Python, Machine Learning, and Generative AI.</b>
 </p>
