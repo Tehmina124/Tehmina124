@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tehmina124/Tehmina124/main/mybanner.png" width="100%" alt="Tehmina Anwar Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tehmina Anwar</h1>
+<h1 align="center">Hi, I'm Tehmina Anwar 👋 </h1>
 
 <h3 align="center">
 AI/ML Engineer • Python Developer • Generative AI • LLMs • RAG • NLP • Computer Vision
