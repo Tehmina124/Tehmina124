@@ -1,402 +1,345 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tehmina124/Tehmina124/main/mybanner.png" width="100%" alt="Tehmina Anwar Banner"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tehmina124/Tehmina124/main/mybanner.png" width="100%" alt="Tehmina Anwar AI Developer Banner"/>
+
+<br>
+
+# 👋 Hi, I'm Tehmina Anwar
+
+### 🤖 AI Developer • AI/ML Engineer • Python Developer • Generative AI
+
+<p>
+Building intelligent, practical & user-focused AI applications with
+<strong>Python, ML, GenAI, LLMs, RAG, NLP & Computer Vision.</strong>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tehmina Anwar</h1>
+<br>
 
-<h3 align="center">
-🤖 AI/ML Engineer • 🐍 Python Developer • 🧠 Generative AI • 🔍 NLP • 👁️ Computer Vision
-</h3>
+<a href="https://tehmina-portfolio-five.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/tehmina-anwar-77b8a8414/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-7C3AED?style=for-the-badge"/>
+</a>
+<a href="https://github.com/Tehmina124">
+<img src="https://img.shields.io/badge/💻_GitHub-6366F1?style=for-the-badge"/>
+</a>
 
-<p align="center">
-Building intelligent, practical and user-focused AI applications with Python,
-Machine Learning, Generative AI, LLMs, RAG, NLP and Computer Vision.
-</p>
-
-<p align="center">
-  <a href="https://tehmina-portfolio-five.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tehmina-anwar-77b8a8414/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-7C3AED?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Tehmina124">
-    <img src="https://img.shields.io/badge/💻%20GitHub-7C3AED?style=for-the-badge"/>
-  </a>
-</p>
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am an undergraduate **Bachelor of Science in Artificial Intelligence (BSAI)** student passionate about building intelligent, practical and user-focused AI applications.
+I'm a **final-year Bachelor of Science in Artificial Intelligence (BSAI) student** passionate about building real-world AI applications.
 
-My current focus includes:
+I work with **Python, AI/ML, Generative AI, LLMs, RAG, NLP, Computer Vision, Data Analytics and AI App Development**. I enjoy turning ideas into working products, experimenting with new technologies, and learning through hands-on projects.
 
-- 🐍 Python Development
-- 🤖 Machine Learning
-- 🧠 Generative AI
-- 🔗 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 💬 Natural Language Processing (NLP)
-- 👁️ Computer Vision
-- 🎈 AI Application Development
+🚀 **My goal:** Grow as an **AI Developer & AI/ML Engineer** and build intelligent solutions that solve real-world problems.
 
-I believe in **learning by building**. I enjoy turning ideas into working applications and continuously exploring modern Artificial Intelligence technologies.
-
-🚀 **My goal is to grow as an AI/ML Engineer and build intelligent solutions for real-world problems.**
+💡 **I believe in:** *Learn → Build → Deploy → Improve.*
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 My AI & Tech Stack
 
-### 🐍 Programming & Development
+<div align="center">
 
-**Python • OOP • Problem Solving • Application Development**
+### 🐍 Programming
 
-### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-**Machine Learning • Deep Learning • Predictive Modeling • Data Preprocessing**
+### 🤖 AI / ML
 
-### 🧠 Generative AI & LLMs
+<img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-EC4899?style=for-the-badge"/>
 
-**Generative AI • LLMs • Prompt Engineering • RAG • AI Applications**
+### 🧠 GenAI / LLM / NLP
 
-### 💬 NLP
-
-**Natural Language Processing • TF-IDF • Cosine Similarity • Text Classification • Chatbots**
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-A855F7?style=for-the-badge"/>
 
 ### 👁️ Computer Vision
 
-**OpenCV • Image Processing • Face Recognition • Image Classification**
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Face_Recognition-0EA5E9?style=for-the-badge"/>
 
-### 📊 Data & Analytics
+### 📊 Data & AI Apps
 
-**Pandas • NumPy • Plotly • Data Cleaning • Data Visualization**
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge"/>
 
-### 🎈 AI Application Development
+### 🛠️ Tools & Deployment
 
-**Streamlit • Gradio • Tkinter**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-### ☁️ Tools & Deployment
-
-**Git • GitHub • VS Code • Streamlit Community Cloud • Vercel**
+</div>
 
 ---
 
 # 🚀 Featured AI Projects
 
-## 📊 [AI Business Analytics Assistant](https://github.com/Tehmina124)
+<div align="center">
 
-Interactive business analytics application for analyzing datasets, sales trends, products, categories and regions.
+| 🤖 Project                              | 🛠️ Technologies                  | 🔗                                                                                |
+| --------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
+| **AI Career Recommendation Engine**     | Python • ML • NLP • Gradio        | [View Project](https://github.com/Tehmina124/-AI-Career-Recommendation-Engine)    |
+| **AI FAQ Chatbot**                      | Python • NLP • TF-IDF • Streamlit | [View Project](https://github.com/Tehmina124/AI-FAQ-Chatbot)                      |
+| **AI Customer Support Chatbot**         | Python • NLP • TF-IDF • Streamlit | [View Project](https://github.com/Tehmina124/AI-Customer-Support-Chatbot)         |
+| **Intelligent Resume Screening System** | Python • NLP • AI • Streamlit     | [View Project](https://github.com/Tehmina124/Intelligent-Resume-Screening-System) |
+| **AI Business Analytics Assistant**     | Python • Pandas • ML • Streamlit  | [View Project](https://github.com/Tehmina124)                                     |
+| **AI Attendance System**                | Python • OpenCV • CV              | [View GitHub](https://github.com/Tehmina124)                                      |
 
-**Features:**
-- 📊 Data analysis
-- 🧹 Data cleaning
-- 📈 Interactive visualizations
-- 🤖 ML-based sales prediction
-- 💡 Business insights
-- 📄 Report generation
-
-**Tech:** Python • Streamlit • Pandas • NumPy • Plotly • Machine Learning • ReportLab
-
-🚀 **Live Demo:**  
-https://ai-business-analytics-assistant-2toqqp4ypuwiavq2v23gk5.streamlit.app/
+</div>
 
 ---
 
-## 🤖 [AI Career Recommendation Engine](https://github.com/Tehmina124/AI-Career-Recommendation-Engine)
+## 🤖 AI & Machine Learning Projects
 
-AI-powered career recommendation system that analyzes user skills and interests to suggest suitable career paths.
+### 🎯 AI Career Recommendation Engine
 
-**Features:**
-- 🧠 Career prediction
-- 🔍 NLP-based processing
-- 📊 Confidence scoring
-- 🎯 Personalized recommendations
-- 💼 Multiple career categories
+An intelligent career recommendation system that analyzes users' skills and interests and recommends suitable career paths using **Machine Learning and NLP**.
 
-**Tech:** Python • Machine Learning • NLP • Scikit-learn • Gradio
+**Tech:** `Python` `ML` `NLP` `TF-IDF` `Logistic Regression` `Gradio`
 
-🚀 **Live Demo:**  
-https://blpehwkhxobgnsgquaujuq.streamlit.app/
+🔗 [💻 GitHub Repository](https://github.com/Tehmina124/-AI-Career-Recommendation-Engine)
 
 ---
 
-## 📄 [Intelligent Resume Screening System](https://github.com/Tehmina124/Intelligent-Resume-Screening-System)
+### 💬 AI FAQ Chatbot
 
-AI-powered resume screening application designed to analyze resumes, extract relevant skills and assist with candidate-job matching.
+An NLP-based FAQ chatbot that uses **TF-IDF and Cosine Similarity** to find the most relevant answer from a knowledge base containing **60 FAQs**.
 
-**Features:**
-- 📄 Resume analysis
-- 🔍 Skill extraction
-- 🎯 Candidate matching
-- 🧠 NLP processing
-- 📊 Matching insights
+**Tech:** `Python` `NLP` `TF-IDF` `Cosine Similarity` `Scikit-learn` `Streamlit`
 
-**Tech:** Python • NLP • Machine Learning • Streamlit
+🚀 [🌐 Live Demo](https://ai-faq-chatbot-haabuazmzxqkml2vs2hqgp.streamlit.app/)
 
-🚀 **Live Demo:**  
-https://intelligent-resume-screening-system-fk3gfpbxq73igk9dmqudlw.streamlit.app/
+🔗 [💻 GitHub Repository](https://github.com/Tehmina124/AI-FAQ-Chatbot)
 
 ---
 
-## 🤖 [AI Customer Support Chatbot](https://github.com/Tehmina124/AI-Customer-Support-Chatbot)
+### 🤖 AI Customer Support Chatbot
 
-AI-powered customer support chatbot capable of handling common queries related to orders, refunds, payments, shipping and returns.
+AI-powered customer support chatbot designed to handle questions related to **orders, refunds, payments, shipping, returns and accounts**.
 
-**Features:**
-- 💬 Customer support chatbot
-- 🧠 Intent recognition
-- 🔎 TF-IDF & Cosine Similarity
-- 📊 Confidence scoring
-- 🎤 Speech-to-Text
-- 🔊 Text-to-Speech
-- 💾 Conversation history
+Includes FAQ matching, confidence scoring and conversational interaction.
 
-**Tech:** Python • NLP • TF-IDF • Scikit-learn • Streamlit • SpeechRecognition • gTTS
+**Tech:** `Python` `NLP` `TF-IDF` `Scikit-learn` `Streamlit`
 
-🚀 **Live Demo:**  
-https://ai-customer-support-chatbot-k2dnldj9mfkkme2eqok7oz.streamlit.app/
+🚀 [🌐 Live Demo](https://ai-customer-support-chatbot-k2dnldj9mfkkme2eqok7oz.streamlit.app/)
+
+🔗 [💻 GitHub Repository](https://github.com/Tehmina124/AI-Customer-Support-Chatbot)
 
 ---
 
-## 💬 [AI FAQ Chatbot](https://github.com/Tehmina124/AI-FAQ-Chatbot)
+### 📄 Intelligent Resume Screening System
 
-An AI-based FAQ chatbot that answers questions related to Artificial Intelligence, Machine Learning, Python and other technical topics.
+AI-powered resume screening application that analyzes resumes and assists with candidate-job matching using NLP techniques.
 
-**Features:**
-- 🤖 AI FAQ chatbot
-- 📚 50+ FAQ questions
-- 🔍 TF-IDF question matching
-- 📐 Cosine Similarity
-- 📊 Match confidence
-- 💬 Chat history
-- 📋 FAQ table
-- 🎈 Streamlit interface
+**Tech:** `Python` `NLP` `AI` `Streamlit`
 
-**Tech:** Python • Streamlit • NLP • TF-IDF • Scikit-learn • JSON
-
-🚀 **Live Demo:**  
-https://ai-faq-chatbot-haabuazmzxqkml2vs2hqgp.streamlit.app/
+🔗 [💻 GitHub Repository](https://github.com/Tehmina124/Intelligent-Resume-Screening-System)
 
 ---
 
-# 💻 Python & Application Projects
+### 📊 AI Business Analytics Assistant
 
-## 💰 [Smart Expense Tracker](https://github.com/Tehmina124/Smart-Expense-Tracker)
+Interactive analytics application for data cleaning, sales analysis, visualization, business insights and ML-based prediction.
 
-Interactive expense management application for recording, organizing and analyzing personal expenses.
+**Tech:** `Python` `Pandas` `NumPy` `Plotly` `Machine Learning` `Streamlit`
 
-**Features:**
-- 💵 Add expenses
-- 📂 Category management
-- 📅 Date tracking
-- 📊 Expense summary
-- 🔎 Search and filtering
-- ✏️ Update expenses
-- 🗑️ Delete expenses
-- 📄 Save reports
-
-**Tech:** Python • Streamlit • Tkinter • Data Management
-
-🚀 **Live Demo:**  
-https://smart-expense-tracker-htzjgcvshpxfbtvaxa8zoz.streamlit.app/
+🚀 [🌐 Live Demo](https://ai-business-analytics-assistant-2toqqp4ypuwiavq2v23gk5.streamlit.app/)
 
 ---
 
-## 🧠 [Smart Quiz Application](https://github.com/Tehmina124/Smart-Quiz-Application)
+## 💻 Python & Application Projects
 
-Interactive quiz application designed to test knowledge across different technical categories.
+### 💰 Smart Expense Tracker
 
-**Features:**
-- 🧠 Multiple categories
-- 🎯 Difficulty levels
-- ⏱️ Timer
-- 🔀 Random questions
-- 📊 Score tracking
-- 🎈 Interactive interface
+Expense management application for recording, organizing and analyzing expenses.
 
-**Tech:** Python • Streamlit
+**Tech:** `Python` `Tkinter` `Data Management`
 
-🚀 **Live Demo:**  
-https://smart-quiz-application-b4celhqsnzvifpvaqbrpus.streamlit.app/
+🔗 [💻 GitHub](https://github.com/Tehmina124/Smart-Expense-Tracker)
 
 ---
 
-## 📝 [To-Do List Application](https://github.com/Tehmina124/-To-Do-List-Application)
+### 🧠 Smart Quiz Application
 
-Task management application for organizing daily tasks and tracking progress.
+Interactive quiz application with multiple categories, difficulty levels, questions and score tracking.
 
-**Features:**
-- ➕ Add tasks
-- ✏️ Update tasks
-- 🗑️ Delete tasks
-- 🔎 Search tasks
-- 📌 Priority management
-- ✅ Completion tracking
+**Tech:** `Python` `Streamlit`
 
-**Tech:** Python
+🚀 [🌐 Live Demo](https://smart-quiz-application-b4celhqsnzvifpvaqbrpus.streamlit.app/)
+
+🔗 [💻 GitHub](https://github.com/Tehmina124/Smart-Quiz-Application)
 
 ---
 
-## 🏥 [Hospital Management System](https://github.com/Tehmina124/Hospital-Management-System)
+### 🏥 Hospital Management System
 
-Python-based management system designed to manage hospital operations.
+Python-based system for managing patients, doctors, appointments, medicines and billing.
 
-**Features:**
-- 👨‍⚕️ Doctor management
-- 🧑‍🤝‍🧑 Patient management
-- 📅 Appointment management
-- 💊 Medicine management
-- 💰 Billing management
-- 💾 JSON data storage
+**Tech:** `Python` `OOP` `JSON`
 
-**Tech:** Python • OOP • JSON
+🔗 [💻 GitHub](https://github.com/Tehmina124/Hospital-Management-System)
 
 ---
 
-## 🧮 [Python Calculator](https://github.com/Tehmina124/-Python-Calculator)
+### 📝 To-Do List Application
 
-Simple calculator application created to practice Python programming fundamentals and arithmetic operations.
+Task management application for adding, updating, deleting, searching, sorting and tracking tasks.
 
-**Tech:** Python
+**Tech:** `Python`
 
----
-
-## 🔐 [Random Password Generator](https://github.com/Tehmina124/random-password-generator)
-
-Secure customizable password generator for creating random passwords.
-
-**Features:**
-- 🔑 Password generation
-- 📏 Custom password length
-- 🔤 Letters
-- 🔢 Numbers
-- 🔣 Special characters
-- 🎈 Streamlit interface
-
-**Tech:** Python • Streamlit • Tkinter
-
-🚀 **Live Demo:**  
-https://random-password-generator-f43v6ghiubcuegtuc9sgyw.streamlit.app/
+🔗 [💻 GitHub](https://github.com/Tehmina124/-To-Do-List-Application)
 
 ---
 
-## 🌍 [Language Translation Tool](https://github.com/Tehmina124/CodeAlpha_LanguageTranslationTool)
+### 🧮 Python Calculator
 
-Interactive language translation application allowing users to enter text, select languages and generate translated results.
+Simple calculator application developed to practice Python programming fundamentals and arithmetic operations.
 
-**Features:**
-- 🌍 Multiple languages
-- 📝 Text input
-- 🔄 Translation
-- 🎈 Interactive Streamlit interface
+**Tech:** `Python`
 
-**Tech:** Python • Streamlit • NLP • Translation
-
-🚀 **Live Demo:**  
-https://codealphalanguagetranslationtool-kjfgtohte9xx9to5bj9gst.streamlit.app/
+🔗 [💻 GitHub](https://github.com/Tehmina124/-Python-Calculator)
 
 ---
 
-# 👁️ Computer Vision Projects
+### 🔐 Random Password Generator
 
-## 👁️ AI Attendance System
+Customizable password generator developed with Python and available through application interfaces.
 
-Face recognition-based attendance system designed to automate attendance using Computer Vision.
+**Tech:** `Python` `Tkinter` `Streamlit`
 
-**Features:**
-- 👤 Face detection
-- 🔍 Face recognition
-- 📅 Automated attendance
-- 📊 Attendance records
+🔗 [💻 GitHub](https://github.com/Tehmina124/random-password-generator)
 
-**Tech:** Python • OpenCV • Computer Vision
+🚀 [🌐 Live Demo](https://random-password-generator-f43v6ghiubcuegtuc9sgyw.streamlit.app/)
 
 ---
 
-# 💬 AI & Career Projects
+## 👁️ Computer Vision Projects
 
-## 💼 [AI Career Chatbot](https://github.com/Tehmina124/AI-Career-Chatbot)
+### 👁️ AI Attendance System
 
-AI-powered chatbot designed to provide career guidance and answer questions related to careers, Artificial Intelligence and professional development.
+Face recognition-based attendance application using Computer Vision and OpenCV for automated attendance management.
 
-**Tech:** Python • AI • NLP
-
----
-
-## 🌐 [Personal Portfolio Website](https://github.com/Tehmina124/Tehmina-portfolio)
-
-Responsive personal portfolio website showcasing my AI projects, technical skills, learning journey and professional profile.
-
-**Tech:** HTML • CSS • JavaScript • Vercel
-
-🌐 **Live Portfolio:**  
-https://tehmina-portfolio-five.vercel.app/
+**Tech:** `Python` `OpenCV` `Computer Vision` `Face Recognition`
 
 ---
 
-# 📚 Project Collection
+### 🌱 Potato Disease Detection
 
-| # | Project | Area | Technology |
-|---|---|---|---|
-| 01 | 📊 AI Business Analytics Assistant | AI / ML | Python • Streamlit |
-| 02 | 🤖 AI Career Recommendation Engine | ML / NLP | Python • Scikit-learn |
-| 03 | 📄 Intelligent Resume Screening | AI / NLP | Python • Streamlit |
-| 04 | 🤖 AI Customer Support Chatbot | NLP / AI | Python • Streamlit |
-| 05 | 💬 AI FAQ Chatbot | NLP | Python • TF-IDF |
-| 06 | 💰 Smart Expense Tracker | Application | Python • Streamlit |
-| 07 | 🧠 Smart Quiz Application | Application | Python • Streamlit |
-| 08 | 📝 To-Do List | Application | Python |
-| 09 | 🏥 Hospital Management System | Software | Python • OOP |
-| 10 | 🧮 Python Calculator | Python | Python |
-| 11 | 🔐 Random Password Generator | Utility | Python • Streamlit |
-| 12 | 🌍 Language Translation Tool | NLP | Python • Streamlit |
-| 13 | 👁️ AI Attendance System | Computer Vision | Python • OpenCV |
-| 14 | 💬 AI Career Chatbot | AI | Python |
-| 15 | 🌐 Personal Portfolio | Web | HTML • CSS • JavaScript |
+Deep Learning project focused on detecting potato leaf diseases using image classification and computer vision techniques.
+
+**Tech:** `Python` `Deep Learning` `Computer Vision`
+
+---
+
+## 🌐 Other Projects
+
+### 🌍 Language Translation Tool
+
+Interactive translation application for entering text, selecting languages and generating translated results.
+
+**Tech:** `Python` `Streamlit` `NLP`
+
+🔗 [💻 GitHub](https://github.com/Tehmina124/CodeAlpha_LanguageTranslationTool)
+
+🚀 [🌐 Live Demo](https://codealphalanguagetranslationtool-kjfgtohte9xx9to5bj9gst.streamlit.app/)
+
+---
+
+### 🌐 Personal Portfolio
+
+Responsive portfolio website showcasing my AI projects, technical skills and professional journey.
+
+**Tech:** `HTML` `CSS` `JavaScript` `Vercel`
+
+🌐 [Visit Portfolio](https://tehmina-portfolio-five.vercel.app/)
 
 ---
 
 # 🌱 Currently Learning
 
-- 🤖 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🧠 Prompt Engineering
-- ⚡ FastAPI
-- 🎈 Streamlit
-- 🚀 AI Application Deployment
-- 🧬 Deep Learning
-- 👁️ Advanced Computer Vision
+<div align="center">
+
+`🤖 LLMs`  
+`🔍 RAG`  
+`🧠 Prompt Engineering`  
+`⚡ FastAPI`  
+`🎨 Streamlit`  
+`🚀 AI Deployment`  
+`🧬 Deep Learning`  
+`👁️ Computer Vision`
+
+</div>
 
 ---
 
-# 🎯 What I'm Working Toward
+# 🎯 My Goal
 
-I am continuously improving my Artificial Intelligence and Machine Learning skills through practical projects, internships and hands-on experimentation.
+I'm continuously developing my skills by **building, testing and deploying practical AI applications**.
 
-My long-term goal is to become a skilled **AI/ML Engineer** capable of designing, developing and deploying intelligent applications that solve meaningful real-world problems.
+My goal is to become a strong **AI Developer & AI/ML Engineer** capable of designing and deploying intelligent solutions using modern AI technologies.
 
 > 💡 **Learn → Build → Deploy → Improve**
 
 ---
 
-# 📈 My Development Journey
+# 📊 GitHub Journey
 
-```text
-🐍 Python
-     ↓
-📊 Data & Programming
-     ↓
-🤖 Machine Learning
-     ↓
-🧠 NLP & Computer Vision
-     ↓
-💬 AI Applications
-     ↓
-🔗 LLMs & RAG
-     ↓
-🚀 AI Deployment
-     ↓
-🌟 AI/ML Engineer
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tehmina124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehmina124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" height="170"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://tehmina-portfolio-five.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tehmina-anwar-77b8a8414/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Tehmina124">
+<img src="https://img.shields.io/badge/💻_GitHub-6366F1?style=for-the-badge"/>
+</a>
+
+</div>
+
+<p align="center">
+📧 <strong>Tehminaanwar713@gmail.com</strong>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**✨ Building intelligent AI solutions, one project at a time.**
+
+<br>
+
+🤖 **AI Developer** • 🧠 **AI/ML Engineer** • 🐍 **Python Developer** • 🚀 **Generative AI**
+
+</div>
