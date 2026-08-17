@@ -6,11 +6,11 @@
 
 # 👋 Hi, I'm Tehmina Anwar
 
-### 🤖  AI/ML Engineer • Python Developer • Generative AI 
+### 🤖 AI Developer • AI/ML Engineer • Python Developer • Generative AI
 
 <p>
 Building intelligent, practical & user-focused AI applications with
-<strong>Python, ML, GenAI, LLMs, RAG, NLP & Computer Vision.</strong>
+<strong>Python, Machine Learning, Generative AI, LLMs, RAG, NLP & Computer Vision.</strong>
 </p>
 
 <br>
@@ -31,13 +31,15 @@ Building intelligent, practical & user-focused AI applications with
 
 ## 👩‍💻 About Me
 
-I'm a **final-year Bachelor of Science in Artificial Intelligence (BSAI) student** passionate about building real-world AI applications.
+I'm a **final-year Bachelor of Science in Artificial Intelligence (BSAI) student** passionate about building practical and intelligent AI applications.
 
-I work with **Python, AI/ML, Generative AI, LLMs, RAG, NLP, Computer Vision, Data Analytics and AI App Development**. I enjoy turning ideas into working products, experimenting with new technologies, and learning through hands-on projects.
+My core interests include **Python, AI/ML, Generative AI, LLMs, RAG, NLP, Computer Vision, Data Analytics and AI Application Development**.
+
+I enjoy turning ideas into working applications, experimenting with modern AI technologies, and learning through hands-on projects.
 
 🚀 **My goal:** Grow as an **AI Developer & AI/ML Engineer** and build intelligent solutions that solve real-world problems.
 
-💡 **I believe in:** *Learn → Build → Deploy → Improve.*
+💡 **My approach:** *Learn → Build → Deploy → Improve*
 
 ---
 
@@ -49,13 +51,13 @@ I work with **Python, AI/ML, Generative AI, LLMs, RAG, NLP, Computer Vision, Dat
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
-<img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine_Learning-F59E0B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep_Learning-EC4899?style=for-the-badge"/>
 
-### 🧠 GenAI / LLM / NLP
+### 🧠 Generative AI / LLM / NLP
 
 <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge"/>
@@ -68,7 +70,7 @@ I work with **Python, AI/ML, Generative AI, LLMs, RAG, NLP, Computer Vision, Dat
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Face_Recognition-0EA5E9?style=for-the-badge"/>
 
-### 📊 Data & AI Apps
+### 📊 Data & AI Applications
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -96,14 +98,14 @@ I work with **Python, AI/ML, Generative AI, LLMs, RAG, NLP, Computer Vision, Dat
 | **AI FAQ Chatbot**                      | Python • NLP • TF-IDF • Streamlit | [View Project](https://github.com/Tehmina124/AI-FAQ-Chatbot)                      |
 | **AI Customer Support Chatbot**         | Python • NLP • TF-IDF • Streamlit | [View Project](https://github.com/Tehmina124/AI-Customer-Support-Chatbot)         |
 | **Intelligent Resume Screening System** | Python • NLP • AI • Streamlit     | [View Project](https://github.com/Tehmina124/Intelligent-Resume-Screening-System) |
-| **AI Business Analytics Assistant**     | Python • Pandas • ML • Streamlit  | [View Project](https://github.com/Tehmina124)                                     |
+| **AI Business Analytics Assistant**     | Python • Pandas • ML • Streamlit  | [View GitHub](https://github.com/Tehmina124)                                      |
 | **AI Attendance System**                | Python • OpenCV • CV              | [View GitHub](https://github.com/Tehmina124)                                      |
 
 </div>
 
 ---
 
-## 🤖 AI & Machine Learning Projects
+# 🤖 AI & Machine Learning Projects
 
 ### 🎯 AI Career Recommendation Engine
 
@@ -117,7 +119,7 @@ An intelligent career recommendation system that analyzes users' skills and inte
 
 ### 💬 AI FAQ Chatbot
 
-An NLP-based FAQ chatbot that uses **TF-IDF and Cosine Similarity** to find the most relevant answer from a knowledge base containing **60 FAQs**.
+An NLP-based FAQ chatbot using **TF-IDF and Cosine Similarity** to find relevant answers from a knowledge base containing **60 FAQs**.
 
 **Tech:** `Python` `NLP` `TF-IDF` `Cosine Similarity` `Scikit-learn` `Streamlit`
 
@@ -130,8 +132,6 @@ An NLP-based FAQ chatbot that uses **TF-IDF and Cosine Similarity** to find the 
 ### 🤖 AI Customer Support Chatbot
 
 AI-powered customer support chatbot designed to handle questions related to **orders, refunds, payments, shipping, returns and accounts**.
-
-Includes FAQ matching, confidence scoring and conversational interaction.
 
 **Tech:** `Python` `NLP` `TF-IDF` `Scikit-learn` `Streamlit`
 
@@ -161,7 +161,7 @@ Interactive analytics application for data cleaning, sales analysis, visualizati
 
 ---
 
-## 💻 Python & Application Projects
+# 💻 Python & Application Projects
 
 ### 💰 Smart Expense Tracker
 
@@ -207,7 +207,7 @@ Task management application for adding, updating, deleting, searching, sorting a
 
 ### 🧮 Python Calculator
 
-Simple calculator application developed to practice Python programming fundamentals and arithmetic operations.
+Simple calculator application developed to practice Python programming fundamentals and mathematical operations.
 
 **Tech:** `Python`
 
@@ -227,7 +227,7 @@ Customizable password generator developed with Python and available through appl
 
 ---
 
-## 👁️ Computer Vision Projects
+# 👁️ Computer Vision Projects
 
 ### 👁️ AI Attendance System
 
@@ -245,7 +245,7 @@ Deep Learning project focused on detecting potato leaf diseases using image clas
 
 ---
 
-## 🌐 Other Projects
+# 🌐 Other Projects
 
 ### 🌍 Language Translation Tool
 
@@ -295,29 +295,6 @@ My goal is to become a strong **AI Developer & AI/ML Engineer** capable of desig
 > 💡 **Learn → Build → Deploy → Improve**
 
 ---
-
-# 📊 GitHub Journey
-
-<div align="center">
-
-### 💻 My GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tehmina124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&count_private=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehmina124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" width="40%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tehmina124&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" width="70%"/>
-
-<br><br>
-
-### 🚀 Building • Learning • Improving
-
-**Python** 🐍   **AI/ML** 🤖   **Generative AI** 🧠   **NLP** 🔍   **Computer Vision** 👁️
-
-</div>
-
 
 # 📫 Let's Connect
 
