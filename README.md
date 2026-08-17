@@ -300,13 +300,24 @@ My goal is to become a strong **AI Developer & AI/ML Engineer** capable of desig
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tehmina124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" height="170"/>
+### 💻 My GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehmina124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tehmina124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&count_private=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehmina124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" width="40%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tehmina124&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" width="70%"/>
+
+<br><br>
+
+### 🚀 Building • Learning • Improving
+
+**Python** 🐍   **AI/ML** 🤖   **Generative AI** 🧠   **NLP** 🔍   **Computer Vision** 👁️
 
 </div>
 
----
 
 # 📫 Let's Connect
 
