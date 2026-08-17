@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Tehmina Anwar
 
-### 🤖 AI Developer • AI/ML Engineer • Python Developer • Generative AI
+### 🤖  AI/ML Engineer • Python Developer • Generative AI 
 
 <p>
 Building intelligent, practical & user-focused AI applications with
